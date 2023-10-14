@@ -1,16 +1,10 @@
 # testing_app
+- [Flutter アプリのテスト方法](https://codelabs.developers.google.com/codelabs/flutter-app-testing?hl=ja#0)
+  - シンプルな Flutter アプリを作成してテストすることを目的とする
+  - アプリでは、Provider パッケージを使用して状態を管理する
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# 学習内容
+- ウィジェット テスト フレームワークを使用してウィジェット テストを作成する方法
+- integration_test ライブラリを使用してアプリの UI とパフォーマンスをテストする統合テストの作成方法
+- 単体テストを使用してデータクラス（プロバイダ）をテストする方法
+- beer collectionに応用する
